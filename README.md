@@ -1,1 +1,1 @@
-Testing things
+A Repository for the TC newsletter!
